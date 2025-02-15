@@ -5,7 +5,7 @@ A loja de videogames é um website responsivo desenvolvido com HTML e CSS, ofere
 ## 🚀 Demonstração
 
 ![image](assets/final-project9.png)
-[Clique aqui](linkaqui) para acessar o resultado final do projeto.
+[Clique aqui](https://flaviomattosdev.github.io/Gaming-Store/) para acessar o resultado final do projeto.
 
 ## 🛠️ Tecnologias Utilizadas
 
